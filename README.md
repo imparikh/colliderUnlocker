@@ -28,6 +28,7 @@ void opener(){
 
 We cut the wires so it looked presentable, and the outside looked like this:
 
-<img src = "https://github.com/imparikh/colliderUnlocker/blob/master/images/final.png" height=500px>
+<img src = "https://github.com/imparikh/colliderUnlocker/blob/master/images/final.png" width=500px>
 #### Final
 Check out the final product <a href = "https://www.youtube.com/watch?v=Rq76U-nN76M">here</a>.
+Huge shoutout to Ibrahim Hashme, Gurpreet Singh, Tim Zulf, and Josh Sheldon for helping out with this.
