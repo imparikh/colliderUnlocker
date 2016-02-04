@@ -7,7 +7,7 @@ When Terrapin Hackers was founded, the members needed a place to work. Enter Col
 #### What we did.
 Someone had created this piano out of Terrapin Hackers' stickers and <a href = "https://www.adafruit.com/products/1361">velostat</a>. 
 
-<img src = "https://github.com/imparikh/colliderUnlocker/blob/master/images/velostat.jpeg" width=500px>
+<img src = "https://github.com/imparikh/colliderUnlocker/blob/master/images/velostat.png" width=500px>
 
 We decided that there would be a specific button order to getting the door unlocked. How do we unlock the door? With a servo.
 
@@ -24,10 +24,10 @@ void opener(){
   ```
   That's it. There was a little trial and error to see how long we had to wait for the door to unlock and the let the string back. After it was all wired up, it looked like this.
   
-<img src = "https://github.com/imparikh/colliderUnlocker/blob/master/images/precut.JPG" width=500px>
+<img src = "https://github.com/imparikh/colliderUnlocker/blob/master/images/precut.png" width=500px>
 
 We cut the wires so it looked presentable, and the outside looked like this:
 
-<img src = "https://github.com/imparikh/colliderUnlocker/blob/master/images/final.JPG" width=500px>
+<img src = "https://github.com/imparikh/colliderUnlocker/blob/master/images/final.png" width=500px>
 #### Final
 Check out the final product <a href = "https://www.youtube.com/watch?v=Rq76U-nN76M">here</a>.
